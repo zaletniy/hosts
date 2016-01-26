@@ -1,4 +1,7 @@
 # Custom host records are listed here.
-
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 direct.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 counter.yadro.ru
 
 # End of custom host records.
